@@ -61,7 +61,7 @@ export default function Home() {
   };
 
   return (
-    <main style={{ margin: "24px" }}>
+    <main>
       <div className="header">Solace Advocates</div>
       <br />
       <div className="search">
